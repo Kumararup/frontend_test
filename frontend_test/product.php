@@ -1,6 +1,6 @@
 <?php
 // Fetch products
-$products = file_get_contents('JSON/list.json');
+$products = file_get_contents('mocks/list.json');
 
 echo $products;
 
