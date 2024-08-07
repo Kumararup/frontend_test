@@ -1,0 +1,62 @@
+[
+  {
+    "color": "Blue",
+    "type": "couch 1",
+    "price": {
+      "amount": "1115.99",
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    "imagePath": ""
+  },
+  {
+    "color": "Yellow",
+    "type": "couch",
+    "price": {
+      "amount": "1000.99",
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    "imagePath": ""
+  },
+  {
+    "color": "Brown",
+    "type": "couch",
+    "price": {
+      "amount": "1220.95",
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    "imagePath": ""
+  },
+  {
+    "color": "Grey",
+    "type": "couch 1",
+    "price": {
+      "amount": "1500.90",
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    "imagePath": ""
+  },
+  {
+    "color": "Blue",
+    "type": "couch 2",
+    "price": {
+      "amount": "900",
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    "imagePath": ""
+  },
+  {
+    "modelClass": "Grey",
+    "version": "couch 1",
+    "price": {
+      "amount": "990",
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    "imagePath": ""
+  }
+]

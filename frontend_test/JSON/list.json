@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Blue Couch 1",
+            "image": "content_image/image1.jpg",
+            "price": 1115.99,
+            "category": "Couches"
+        },
+        {
+            "id": 2,
+            "name": "Yellow Couch",
+            "image": "content_image/image2.jpg",
+            "price": 1000.99,
+            "category": "Couches"
+        },
+        {
+            "id": 3,
+            "name": "Brown Couch",
+            "image": "content_image/image3.jpg",
+            "price": 1220.95,
+            "category": "Couches"
+        },
+        {
+            "id": 4,
+            "name": "Grey Couch 1",
+            "image": "content_image/image4.jpg",
+            "price": 1500.90,
+            "category": "Pillow"
+        },
+        {
+            "id": 5,
+            "name": "Blue Couch 2",
+            "image": "content_image/image5.jpg",
+            "price": 900,
+            "category": "Couches"
+        },
+        {
+            "id": 6,
+            "name": "Grey Couch 2",
+            "image": "content_image/image6.jpg",
+            "price": 990,
+            "category": "Couchescurtain"
+        }
+    ]
+}
