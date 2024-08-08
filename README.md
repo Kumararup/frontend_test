@@ -7,6 +7,7 @@ We've got an initial folder and file structure in `src` prepared for you:
 * `components/` - inside this folder you should add all the JavaScript components needed to make your solution work as it should.
 * `assets/` - images and other assets to be used by this solution.
 * `mocks/` - contains the JSON file(s) with the shop data (products list). You must never change anything directly in the JSON files.
+* db/      -content mysql database script to crate database and inport data for this project
 
 Please keep and use this structure.
 
